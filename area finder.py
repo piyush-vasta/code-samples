@@ -1,0 +1,11 @@
+print("which shapes area do you want to find")
+ui = input()
+if ui == "square": a =int(input());
+if ui == "square":print("your answer is:")
+if ui == "square":print(a*4)
+if ui == "rectangle":print("enter length")
+if ui == "rectangle":l = int(input())
+if ui == "rectangle":print("enter breath")
+if ui == "rectangle":b = int(input())
+if ui == "rectangle":print('your answer is ')
+if ui == "rectangle":print((l+b)*2)
